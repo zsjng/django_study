@@ -39,3 +39,8 @@ APP001
 - 启动Django项目
   - 通过命令行启动 `python manage.py runserver`
   - Pycharm 右上角选择 django启动
+
+## 创建一个新的页面
+- url -> function
+- views -> function
+![img_3.png](img_3.png)

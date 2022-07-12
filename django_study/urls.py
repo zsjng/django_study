@@ -21,6 +21,9 @@ from app001 import views
 urlpatterns = [
     # path('admin/', admin.site.urls),
 
-    path('', views.index)
-    # 默认打开网址后会执行什么操作。
+    path('', views.index),
+    # 默认打开网址eg: http://127.0.0.1:8000/后会执行什么操作。
+    path('user/list/', views.user_list),
+    path('user/add/', views.user_add)
+
 ]
