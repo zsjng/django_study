@@ -44,3 +44,9 @@ APP001
 - url -> function
 - views -> function
 ![img_3.png](img_3.png)
+
+## Templeates
+put your html file to templeates folder
+
+## Static File
+with our django develop, we usually put static File into 
